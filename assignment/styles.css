@@ -1,0 +1,24 @@
+ 
+header {
+   background: #4C93B3;
+   color: white
+  
+}
+ 
+.info {
+   background: #FFB400;
+   color: #4C93B3
+}
+ 
+h3 {
+   background: #FFB400;
+   color: #4C93B3
+}
+ 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
